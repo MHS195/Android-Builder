@@ -2,7 +2,7 @@
 [
     {
         "kernelSource": {
-            "name": "HTC U Ultra",
+            "name": "HTC-U-Ultra",
             "repo": "https://github.com/TARKZiM/android_kernel_htc_oce",
             "device": "oce",
             "defconfig": "oce_defconfig"
@@ -33,7 +33,7 @@
                 ]
             }
         ],
-        "enableCcache": true,
+        "enableCcache": false,
         "params": {
             "ARCH": "arm64",
             "CC": "clang",
