@@ -4,7 +4,6 @@
         "kernelSource": {
             "name": "HTC U Ultra",
             "repo": "https://github.com/TARKZiM/android_kernel_htc_oce",
-            "branch": "lineage-21.0",
             "device": "oce",
             "defconfig": "oce_defconfig"
         },
